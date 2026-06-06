@@ -1,0 +1,13 @@
+name: inventory_tool
+description: Offline inventory XLSX tool
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  uuid: ^4.4.0
+  excel: ^4.0.6
+  path_provider: ^2.1.4
+  share_plus: ^10.0.2
